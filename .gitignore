@@ -1,14 +1,19 @@
 # Videos
-.mov
-.MOV
-.mp4
-.avi
+Videos/
 
-# Model Details
-.pth
-.pt
+# Model Details 
+Weights/
 
-.txt
+# File Extension
+*.mov
+*.MOV
+*.mp4
+*.avi
+*.pth
+*.pt
+
+# Keep .txt files out
+*.txt
 
 # macOS System Files
 .DS_Store
