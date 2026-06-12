@@ -1,0 +1,16 @@
+# Videos
+.mov
+.MOV
+.mp4
+.avi
+
+# Model Details
+.pth
+.pt
+
+.txt
+
+# macOS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
